@@ -9,9 +9,8 @@ document.write(`   <script src='../script.js'></script>
 
       <nav id="nav">
         <ul>
-          <li><a href="https://quentinrma.github.io/Portfolio-HTML---CSS---JS/index.html">Accueil</a></li> 
+          <li><a href=" https://quentinrma.github.io/Quentin.rma/">Accueil</a></li> 
           <li><a href="../index.html">Prototypes</a></li>
-
 
         </ul>
       </nav>
